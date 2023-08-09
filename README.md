@@ -29,3 +29,9 @@
 ##
 
 👨‍💻 <samp>More projects: [__here!__](https://gitlab.portal.futurecollars.com/users/damian_rominiecki/projects)</samp>
+
+##
+
+💡<samp> Helpful tips</samp>:
+- <samp>PostgreSQL - generate or download CSV data from: https://www.mockaroo.com/ or https://www.kaggle.com/datasets </samp>
+- <samp>Django - writing your first Django app using documentation https://docs.djangoproject.com/en/4.2/intro/tutorial01/ </samp>
